@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+.env
+.vite/
+
+# build output
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# system
+.DS_Store

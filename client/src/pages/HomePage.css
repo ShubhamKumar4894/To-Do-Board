@@ -1,0 +1,47 @@
+.home-content {
+    text-align: center;
+    margin-top: 80px;
+    padding: 20px;
+  }
+  
+  .home-content h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .home-content p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 30px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .auth-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 6px;
+    text-decoration: none;
+    border: 1px solid #00bcd4;
+    color: #00bcd4;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .btn:hover {
+    background-color: #00bcd4;
+    color: white;
+  }
+  
+  .btn.primary {
+    background-color: #00bcd4;
+    color: white;
+  }
+  

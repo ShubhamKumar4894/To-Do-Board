@@ -1,0 +1,7 @@
+.error-text {
+    color: red;
+    font-size: 14px;
+    margin-top: 4px;
+    text-align: left;
+    align-self: flex-start;
+  }
